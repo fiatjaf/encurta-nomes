@@ -1,0 +1,26 @@
+{
+  "name": "encurta-nomes",
+  "version": "1.0.0",
+  "description": "Shorten portuguese names by abbreviating and/or removing middlenames.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiatjaf/encurta-nomes.git"
+  },
+  "keywords": [
+    "encurtador",
+    "sobrenome",
+    "sobrenomes",
+    "abrevia",
+    "abreviação"
+  ],
+  "author": "fiatjaf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fiatjaf/encurta-nomes/issues"
+  },
+  "homepage": "https://github.com/fiatjaf/encurta-nomes#readme"
+}
